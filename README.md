@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chethan J
-- 👀 I’m interested in Developing Mobile Apps
+- 👀 I’m Developing Mobile Apps (mainly iOS App)
 - 🌱 I’m currently learning Python
 - 📫 reach me at chethantony42@gmail.com
 
