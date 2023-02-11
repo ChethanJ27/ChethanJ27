@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chethan J
 - 👀 I’m Developing Mobile Apps (mainly iOS App)
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Python and Django and High Level System Designing.
 - 📫 reach me at chethantony42@gmail.com
 
 <!---
