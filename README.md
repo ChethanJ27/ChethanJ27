@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chethan J
-- 👀 I’m a Full Stack Developer mainly expertised in iOS Mobile Application.
+- 👀 I’m a Full Stack Developer mainly expertised in iOS Mobile Applications and Node js.
 - 🌱 I’m currently learning Python, Go and High Level System Designing.
 - 📫 reach me at chethantony42@gmail.com
 
